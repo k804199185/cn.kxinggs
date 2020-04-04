@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fd2af85-7ba0-4c62-8062-fd75b971de44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="community_content: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\大学\maven\repository" />
+        <option name="mavenHome" value="E:/大学/maven/soft/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="E:\大学\maven\soft\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a15HKkPKVgb5S2s03ciSafaTNa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Maven.community_web_manager [tomcat7:run]">
+    <configuration name="ArticleTypeServiceImpl.demo" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="community_service_content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.community.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.community.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.community.service.impl.ArticleTypeServiceImpl" />
+      <option name="METHOD_NAME" value="demo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleTypeServiceImpl.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community_service_content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.community.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.community.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.community.service.impl.ArticleTypeServiceImpl" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community_service_content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kxinggs.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kxinggs.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kxinggs.test.MapperTest" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.demo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community_service_content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kxinggs.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kxinggs.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kxinggs.test.MapperTest" />
+      <option name="METHOD_NAME" value="demo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="community_pojo [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/community_pojo" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="community_service_content [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/community_service_content" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="community_service_system [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/community_service_system" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="community_web_manager [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/community_web_manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ArticleTypeServiceImpl.demo" />
+      <item itemvalue="Maven.community_service_system [tomcat7:run]" />
+      <item itemvalue="Maven.community_web_manager [tomcat7:run]" />
+      <item itemvalue="JUnit.ArticleTypeServiceImpl.demo1" />
+      <item itemvalue="Maven.community_pojo [install]" />
+      <item itemvalue="JUnit.MapperTest.demo1" />
+      <item itemvalue="JUnit.MapperTest.demo2" />
+      <item itemvalue="Maven.community_service_content [tomcat7:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.community_web_manager [tomcat7:run]" />
+        <item itemvalue="Maven.community_service_system [tomcat7:run]" />
+        <item itemvalue="JUnit.MapperTest.demo2" />
+        <item itemvalue="JUnit.MapperTest.demo1" />
+        <item itemvalue="JUnit.ArticleTypeServiceImpl.demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4e765a06" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fd2af85-7ba0-4c62-8062-fd75b971de44" name="Default Changelist" comment="" />
+      <created>1585890170892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585890170892</updated>
+      <workItem from="1585890195176" duration="856000" />
+      <workItem from="1585891145526" duration="1848000" />
+      <workItem from="1585894181109" duration="1779000" />
+      <workItem from="1585895977320" duration="29862000" />
+      <workItem from="1585988505824" duration="8229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="77" key="#Custom_Plugin_Repositories" timestamp="1585895149858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="275" y="77" key="#Custom_Plugin_Repositories/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585895149858" />
+    <state x="275" y="77" key="#HTTP_Proxy" timestamp="1585895528731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="275" y="77" key="#HTTP_Proxy/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585895528731" />
+    <state x="361" y="74" key="#Notifications" timestamp="1585896006020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585896006020" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1585996149579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996149579" />
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585933829820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585933829820" />
+    <state x="515" y="111" key="#com.intellij.ide.util.MemberChooser" timestamp="1585996380364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="111" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996380364" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585989674257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585989674257" />
+    <state x="368" y="30" key="#community_pojo_[install]" timestamp="1585988910998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="30" key="#community_pojo_[install]/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585988910998" />
+    <state x="368" y="30" key="#community_service_content_[tomcat7:run]" timestamp="1585995836266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="30" key="#community_service_content_[tomcat7:run]/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585995836266" />
+    <state x="362" y="172" key="FileChooserDialogImpl" timestamp="1585989560319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="172" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585989560319" />
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom" timestamp="1585996822830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996822830" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center" timestamp="1585996822830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996822830" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left" timestamp="1585996822830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996822830" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right" timestamp="1585996822830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996822830" />
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom" timestamp="1585988474508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585988474508" />
+    <state width="1493" height="231" key="GridCell.Tab.1.center" timestamp="1585988474508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585988474508" />
+    <state width="1493" height="231" key="GridCell.Tab.1.left" timestamp="1585988474508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585988474508" />
+    <state width="1493" height="231" key="GridCell.Tab.1.right" timestamp="1585988474508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585988474508" />
+    <state width="273" height="477" key="HiddenNamespacesPopup" timestamp="1585902539085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="273" height="477" key="HiddenNamespacesPopup/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585902539085" />
+    <state x="184" y="58" key="SettingsEditor" timestamp="1585991192878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="184" y="58" key="SettingsEditor/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585991192878" />
+    <state x="478" y="60" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585902451460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="60" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585902451460" />
+    <state x="642" y="165" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1585902508235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="642" y="165" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585902508235" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585894206371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585894206371" />
+    <state x="2086" y="52" width="1008" height="608" key="dock-window-1" timestamp="1585994351357">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2086" y="52" width="1008" height="608" key="dock-window-1/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585994351357" />
+    <state x="2029" y="88" width="1159" height="587" key="dock-window-2" timestamp="1585988548579">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2029" y="88" width="1159" height="587" key="dock-window-2/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585988548579" />
+    <state x="457" y="44" width="621" height="735" key="find.popup" timestamp="1585996103422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="44" width="621" height="735" key="find.popup/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996103422" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585985820868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585985820868" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585996892887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585996892887" />
+  </component>
+</project>

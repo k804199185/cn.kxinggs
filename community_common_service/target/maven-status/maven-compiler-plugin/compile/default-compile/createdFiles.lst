@@ -1,0 +1,3 @@
+com\community\utils\IdWorker.class
+com\community\utils\BCrypt.class
+com\community\utils\WebUtil.class

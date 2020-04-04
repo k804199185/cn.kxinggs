@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="community_service_content:war">
+    <output-path>$PROJECT_DIR$/community_service_content/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>community_service_content</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="community_service_content-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="community_service_content:war exploded" />
+    </root>
+  </artifact>
+</component>

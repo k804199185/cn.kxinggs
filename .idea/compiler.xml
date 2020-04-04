@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="community_web_portal" />
+        <module name="community_interface" />
+        <module name="community_pojo" />
+        <module name="community_web_manager" />
+        <module name="community_service_system" />
+        <module name="community_common" />
+        <module name="community_common_web" />
+        <module name="community_service_content" />
+        <module name="community_common_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="community_common" target="1.8" />
+      <module name="community_common_service" target="1.8" />
+      <module name="community_common_web" target="1.8" />
+      <module name="community_interface" target="1.8" />
+      <module name="community_parent" target="1.8" />
+      <module name="community_pojo" target="1.8" />
+      <module name="community_service_content" target="1.8" />
+      <module name="community_service_system" target="1.8" />
+      <module name="community_web_manager" target="1.8" />
+      <module name="community_web_portal" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

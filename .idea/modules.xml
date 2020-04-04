@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/community_common/community_common.iml" filepath="$PROJECT_DIR$/community_common/community_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_common_service/community_common_service.iml" filepath="$PROJECT_DIR$/community_common_service/community_common_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_common_web/community_common_web.iml" filepath="$PROJECT_DIR$/community_common_web/community_common_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_interface/community_interface.iml" filepath="$PROJECT_DIR$/community_interface/community_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_parent.iml" filepath="$PROJECT_DIR$/community_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_pojo/community_pojo.iml" filepath="$PROJECT_DIR$/community_pojo/community_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_service_content/community_service_content.iml" filepath="$PROJECT_DIR$/community_service_content/community_service_content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_service_system/community_service_system.iml" filepath="$PROJECT_DIR$/community_service_system/community_service_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_web_manager/community_web_manager.iml" filepath="$PROJECT_DIR$/community_web_manager/community_web_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community_web_portal/community_web_portal.iml" filepath="$PROJECT_DIR$/community_web_portal/community_web_portal.iml" />
+    </modules>
+  </component>
+</project>
